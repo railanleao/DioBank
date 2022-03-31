@@ -1,0 +1,15 @@
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.csproj.AssemblyReference.cache
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.AssemblyInfoInputs.cache
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.AssemblyInfo.cs
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.csproj.CoreCompileInputs.cache
+C:\Users\rleao\Projetos\DioBank\bin\Debug\net6.0\DioBank.exe
+C:\Users\rleao\Projetos\DioBank\bin\Debug\net6.0\DioBank.deps.json
+C:\Users\rleao\Projetos\DioBank\bin\Debug\net6.0\DioBank.runtimeconfig.json
+C:\Users\rleao\Projetos\DioBank\bin\Debug\net6.0\DioBank.dll
+C:\Users\rleao\Projetos\DioBank\bin\Debug\net6.0\DioBank.pdb
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.dll
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\refint\DioBank.dll
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.pdb
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\DioBank.genruntimeconfig.cache
+C:\Users\rleao\Projetos\DioBank\obj\Debug\net6.0\ref\DioBank.dll
